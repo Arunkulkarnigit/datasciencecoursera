@@ -1,2 +1,2 @@
-# datasciencecoursera890
+# datasciencecoursera
 Test - repository
